@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local log files
+*.log
+zendesk_export.log
+
+# Exported data directories
+zendesk_export/
+
+# Archives/Zip files
+*.zip
